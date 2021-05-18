@@ -1,5 +1,5 @@
 # Ping-Pong
-###### this is a game by python (turtle module)....(in 156 lines)
+###### this is a game by python (turtle module)
 
 ## Important Note:
 ### you can change the speed of the ball by changing the value of ball.dy, ball.dx in line 35, 36
